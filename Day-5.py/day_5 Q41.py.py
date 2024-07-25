@@ -1,0 +1,11 @@
+#string methods
+str=input()
+print(str.lower())
+print(str.upper())
+print(str.title())
+print(str.swapcase())
+print(str.split())
+print(str.replace('r','z'))
+print(str.capitalize())
+print(str.strip())
+print(str.split('r'))
